@@ -34,7 +34,7 @@ Our code has been tested with Python 2.7, **TensorFlow 1.3.0**, TFLearn 0.3.2, C
     cd Pixel2Mesh
     python setup.py install    
 
-For chamfer distance, we have included the cuda implementations of [Fan et. al.](https://github.com/fanhqme/PointSetGeneration) in external/
+For CD and EMD, we have included the cuda implementations of [Fan et. al.](https://github.com/fanhqme/PointSetGeneration) in external/
 
     cd pixel2mesh/external/
 
